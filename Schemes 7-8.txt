@@ -1,0 +1,93 @@
+
+This item cannot be stored: 59531
+Hash Table 5 | Bucket Size: 3
+Method: Division, Mod: 41
+Collision Handling: Linear Probing
+Primary Collisions: 58 Secondary Collisions: 17
+Comparisons: 117
+55555 99999 null 
+null null null 
+27431 null null 
+49531 14763 null 
+01234 78888 null 
+90123 92501 null 
+47893 49287 null 
+39531 null null 
+22599 71717 null 
+37319 89102 null 
+62699 26987 null 
+00011 62000 null 
+88531 null null 
+72501 81111 null 
+90911 92345 null 
+54545 null null 
+84763 13956 null 
+62501 78901 null 
+42699 null null 
+31753 09531 null 
+35197 null null 
+null null null 
+null null null 
+47993 null null 
+64763 null null 
+42501 null null 
+22699 67676 null 
+33975 56565 null 
+18765 89531 null 
+19501 78911 null 
+80800 00358 null 
+99989 null null 
+79531 57391 null 
+02698 22705 null 
+02699 38531 null 
+67890 null null 
+null null null 
+12501 54321 null 
+null null null 
+22999 12503 null 
+
+Hash Table 6 | Bucket Size: 3
+Method: Division, Mod: 41
+Collision Handling: Quadratic Probing
+Primary Collisions: 66 Secondary Collisions: 22
+Comparisons: 125
+55555 99999 null 
+null null null 
+27431 null null 
+49531 14763 null 
+01234 78888 null 
+90123 92501 null 
+47893 49287 null 
+39531 null null 
+22599 71717 null 
+37319 89102 null 
+62699 26987 null 
+00011 null null 
+88531 null null 
+72501 81111 null 
+90911 92345 null 
+54545 null null 
+84763 13956 null 
+62501 78901 null 
+42699 null null 
+31753 09531 null 
+35197 null null 
+38531 null null 
+62000 null null 
+47993 null null 
+64763 null null 
+42501 null null 
+22699 67676 null 
+33975 56565 null 
+18765 89531 null 
+null null null 
+80800 00358 null 
+99989 19501 null 
+79531 57391 null 
+02698 22705 null 
+02699 null null 
+67890 null null 
+78911 null null 
+12501 54321 null 
+null null null 
+22999 12503 null 

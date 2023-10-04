@@ -1,0 +1,120 @@
+
+Hash Table 1 | Bucket Size: 1
+Method: Division, Mod: 120
+Collision Handling: Linear Probing
+Collisions: 30
+Comparisons: 156
+null	null	null	90123	14763
+null	null	null	null	null
+null	59531	89531	47893	00011
+33975	38531	null	null	22699
+null	12501	72501	42501	12503
+22705	null	null	null	99989
+null	57391	null	null	01234
+null	13956	35197	null	22599
+99999	80800	null	84763	null
+18765	56565	null	78888	null
+null	39531	09531	null	null
+null	null	null	02698	02699
+62699	78901	89102	19501	null
+54545	92345	null	null	null
+null	90911	27431	31753	78911
+null	null	71717	null	22999
+62000	54321	null	64763	null
+null	null	49287	null	null
+67890	49531	79531	88531	null
+null	null	null	null	42699
+null	62501	92501	null	null
+null	null	26987	null	null
+null	81111	null	47993	null
+55555	67676	null	00358	37319
+
+Hash Table 2 | Bucket Size: 1
+Method: Division, Mod: 120
+Collision Handling: Quadratic Probing
+Collisions: 31
+Comparisons: 138
+null	null	null	90123	14763
+null	null	null	null	null
+null	59531	89531	47893	null
+33975	00011	null	null	22699
+null	12501	72501	12503	null
+22705	42501	null	null	99989
+null	57391	null	null	01234
+null	13956	35197	null	22599
+99999	80800	null	84763	null
+18765	56565	null	78888	null
+null	39531	09531	null	null
+null	null	null	02698	02699
+62699	78901	89102	null	null
+54545	19501	null	null	null
+92345	90911	27431	31753	null
+null	78911	71717	null	22999
+62000	54321	null	64763	null
+null	null	49287	null	null
+67890	49531	79531	null	null
+38531	88531	null	null	42699
+null	62501	92501	null	null
+null	null	26987	null	null
+null	81111	null	47993	null
+55555	67676	null	00358	37319
+
+Hash Table 3 | Bucket Size: 1
+Method: My Scheme- Multiplication
+Collision Handling: Linear Probing
+Collisions: 66
+Comparisons: 156
+67676	72501	42501	12501	56565
+14763	62699	80800	02699	49287
+62000	88531	null	89531	59531
+null	22999	null	null	null
+54321	null	null	null	null
+null	null	null	null	null
+47993	67890	13956	81111	27431
+19501	12503	92345	00358	84763
+null	null	null	null	37319
+null	42699	18765	31753	78888
+78901	38531	22705	null	02698
+39531	09531	47893	71717	null
+99989	null	null	57391	null
+null	null	null	null	null
+null	null	78911	54545	null
+null	null	null	01234	null
+33975	99999	62501	92501	64763
+null	null	22699	null	null
+null	null	null	79531	null
+49531	00011	null	55555	null
+null	null	26987	null	null
+null	null	null	35197	null
+null	22599	null	null	null
+null	null	89102	90123	90911
+
+Hash Table 4 | Bucket Size: 1
+Method: My Scheme- Multiplication
+Collision Handling: Quadratic Probing
+Collisions: 47
+Comparisons: 138
+67676	72501	42501	12501	56565
+62000	62699	80800	02699	88531
+null	null	null	89531	59531
+null	22999	null	null	null
+54321	null	null	null	null
+null	null	null	null	49287
+47993	67890	13956	81111	null
+92345	27431	null	null	84763
+null	null	null	null	37319
+19501	42699	18765	31753	null
+78901	78888	22705	null	02698
+39531	09531	14763	null	47893
+99989	71717	null	57391	null
+38531	null	null	null	null
+null	null	78911	54545	null
+null	null	null	01234	null
+33975	99999	62501	null	null
+92501	12503	22699	null	null
+null	null	null	79531	64763
+49531	00011	null	55555	null
+null	null	26987	null	null
+null	null	null	35197	null
+null	22599	null	null	00358
+null	null	89102	90123	90911
